@@ -1,0 +1,16 @@
+==========================================
+	 Binarfud
+==========================================
+Terima kasih sudah memesan di Binarfud
+Dibawah ini adalah pesanan anda
+
+Nasi Goreng 			1 	 Rp 15000.0
+Nasi Goreng 			1 	 Rp 15000.0
+Nasi Goreng 			1 	 Rp 15000.0
+----------------------------------------- +
+Total 						 Rp 45000.0
+
+Pembayaran : BinarCash
+==========================================
+Simpan struk ini sebagai bukti pembayaran
+==========================================
